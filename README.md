@@ -1,16 +1,17 @@
 ## Hi there 👋
+![o-Proteus-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-Proteus-o&show_icons=true&theme=tokyonight)
 
-<!--
-**o-Proteus-o/o-Proteus-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi there, I'm o-Proteus-o
+🔭 I’m currently working as a freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Learning Python (Django + FastAPI)
+
+👯 Looking to collaborate with good teams
+
+💬 Ask me about Flutter and mobile development
+
+📫 How to reach me: [idriseneina@gmail.com] | [[LinkedIn profile link](https://www.linkedin.com/in/idris-seneina-2a4702238/)]
+
+⚡ Fun fact: Building real solutions from crazy ideas is what I love most. !
 -->
