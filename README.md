@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![o-Proteus-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-Proteus-o&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-Proteus-o&layout=compact&theme=tokyonight)
+
 
 
 👋 Hi there, I'm IDRIS
