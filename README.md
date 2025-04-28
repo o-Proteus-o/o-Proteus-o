@@ -2,7 +2,10 @@
 ![o-Proteus-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-Proteus-o&show_icons=true&theme=tokyonight)
 
 
-👋 Hi there, I'm o-Proteus-o
+👋 Hi there, I'm IDRIS
+
+
+
 🔭 I’m currently working as a freelancer
 
 🌱 Learning Python (Django + FastAPI)
