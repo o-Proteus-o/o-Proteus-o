@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my humble account
 ![o-Proteus-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-Proteus-o&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-Proteus-o&layout=compact&theme=vue)
 
@@ -10,9 +10,9 @@
 
 🔭 I’m currently working as a freelancer
 
-🌱 Learning Python (Django + FastAPI)
+🌱 Learning Flutter + Python (Django + FastAPI)
 
-👯 Looking to collaborate with good teams
+👯 Looking to collaborate with good teams.
 
 💬 Ask me about Flutter and mobile development
 
