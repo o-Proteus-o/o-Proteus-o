@@ -1,4 +1,7 @@
-## Welcome to my humble account
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=42b883&size=40&center=true&vCenter=true&height=50&width=800&lines=Hi+There!!!+This+is+IDRIS;Welcome+to+my+humble+profile" alt="Title">
+</div>
+
 ![o-Proteus-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-Proteus-o&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-Proteus-o&layout=compact&theme=vue)
 
