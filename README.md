@@ -13,7 +13,7 @@
 
 🔭 I’m currently working as a freelancer
 
-🌱 Learning Flutter + Python (Django + FastAPI)
+🌱 Learning Flutter + Go
 
 👯 Looking to collaborate with good teams.
 
