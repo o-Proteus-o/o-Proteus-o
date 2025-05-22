@@ -1,10 +1,15 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=42b883&size=40&center=true&vCenter=true&height=50&width=800&lines=Hi+There!!!+This+is+IDRIS;Welcome+to+my+humble+profile" alt="Title">
 </div>
-
+<!-- Flutter --> 
 <a href="https://github.com/flutter/flutter"><img src="https://img.shields.io/badge/Flutter-3.19-02569B.svg"></a>
+
+<!-- Dart --> 
 <a href="https://github.com/dart-lang/sdk"><img src="https://img.shields.io/badge/Dart-3.3-0175C2.svg"></a>
+
+<!-- Go --> 
 <a href="https://github.com/golang/go"><img src="https://img.shields.io/badge/Go-1.22-00ADD8.svg"></a>
+
 <!-- PocketBase -->  
 <a href="https://github.com/pocketbase/pocketbase"><img src="https://img.shields.io/badge/PocketBase-0.22-5C4DEE.svg"></a>  
 
